@@ -13,7 +13,7 @@ Key findings:
 ## 🏗️ Architecture
 The model uses a STGCN-AE architecture to process 3D skeletal data extracted from video via MediaPipe.
 
-![Model Architecture](figures/Figure 2.png) 
+![Model Architecture](figures/Figure%202.png) 
 
 ## 🛠️ Usage
 
